@@ -44,5 +44,5 @@ classDiagram
     +getTotalPay() double
     +toString String
     }   
-    ~~~
+~~~
     
