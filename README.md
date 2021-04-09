@@ -1,5 +1,5 @@
-# DiagramaClases
 
+~~~
 classDiagram
     ReadingItem <|-- Encyclopedia
     ReadingItem <|-- Magazine
@@ -44,3 +44,5 @@ classDiagram
     +getTotalPay() double
     +toString String
     }   
+    ~~~
+    
